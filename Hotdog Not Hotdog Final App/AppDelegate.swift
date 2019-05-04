@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Hotdog Not Hotdog Final App
 //
-//  Created by Tom Kotopoulos on 5/2/19.
+//  Created by Tom Kotopoulos
 //  Copyright © 2019 Tom Kotopoulos. All rights reserved.
 //
 
