@@ -26,10 +26,10 @@
 		D7401F87227B5C74003C834C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7401F8A227B5C74003C834C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7401F8C227B5C74003C834C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D7401F92227B5C8B003C834C /* HotdogClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = HotdogClassifier.mlmodel; path = ../../../../../../../Documents/HotdogClassifier.mlmodel; sourceTree = "<group>"; };
-		D7401F93227B5C8B003C834C /* Boston Sports Logos.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Boston Sports Logos.mlmodel"; path = "../../../../../../../Documents/Boston Sports Logos.mlmodel"; sourceTree = "<group>"; };
+		D7401F92227B5C8B003C834C /* HotdogClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = HotdogClassifier.mlmodel; sourceTree = "<group>"; };
+		D7401F93227B5C8B003C834C /* Boston Sports Logos.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Boston Sports Logos.mlmodel"; path = "/Users/ktop/Desktop/Swift-Final-Project-BostonSeefood/Hotdog Not Hotdog Final App/Boston Sports Logos.mlmodel"; sourceTree = "<absolute>"; };
 		D7401F96227B5EB4003C834C /* ImageClassificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassificationViewController.swift; sourceTree = "<group>"; };
-		D7401F98227B62EC003C834C /* CGImagePropertyOrientation+UIImageOrientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "CGImagePropertyOrientation+UIImageOrientation.swift"; path = "../../../../../../../Desktop/HotDog Not Hotdog/Hotdog Not Hotdog/CGImagePropertyOrientation+UIImageOrientation.swift"; sourceTree = "<group>"; };
+		D7401F98227B62EC003C834C /* CGImagePropertyOrientation+UIImageOrientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CGImagePropertyOrientation+UIImageOrientation.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
