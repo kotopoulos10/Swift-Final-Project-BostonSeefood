@@ -13,5 +13,5 @@ The first classification is inspired by the HBO series "Sillicon Valley". In the
 The second classification is for the 4 major Boston sports teams (Bruins, Celtics, Patriots, Red Sox). The same training method was used for this model. The model was trained on hundreds of picutres of all four teams with the correct tags associated with each picture. 
 
 
-![Boston Sports Logos](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi-wYqIq4LiAhVHTd8KHYu0ANIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fcamdance03%2Fall-boston-sports%2F&psig=AOvVaw3KUrkb47nD6OqmgBi0qK8i&ust=1557075132285667)
+![Boston Sports Logos](https://i.pinimg.com/236x/a9/d4/e3/a9d4e33bf480fe10b3316b621a9c7500--sports-graphics-boston-sports.jpg)
 
