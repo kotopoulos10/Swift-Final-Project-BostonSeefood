@@ -10,4 +10,8 @@ The first classification is inspired by the HBO series "Sillicon Valley". In the
 ![Hot Dog](Resources/hot_dog.png)
 
 ## Boston Sports 
-The second classification is for the 4 major Boston sports teams (Bruins, Celtics, Patriots, Red Sox). The same training method was used for this model. Hundreds of picutres of all four teams were fed into the classifier with the correct tags and the model was trained on all of these pictures. 
+The second classification is for the 4 major Boston sports teams (Bruins, Celtics, Patriots, Red Sox). The same training method was used for this model. The model was trained on hundreds of picutres of all four teams with the correct tags associated with each picture. 
+
+
+![Boston Sports Logos](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi-wYqIq4LiAhVHTd8KHYu0ANIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fcamdance03%2Fall-boston-sports%2F&psig=AOvVaw3KUrkb47nD6OqmgBi0qK8i&ust=1557075132285667)
+
